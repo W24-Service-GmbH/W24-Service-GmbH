@@ -1,2 +1,1 @@
-# .github
-# .github
+![Analyzing Technical Drawings within Seconds](img/Werk24_banner_GitHub.png "Title")
